@@ -1,5 +1,6 @@
 ![image alt](https://github.com/mrblueofficial/Music-Instrument-E-commerce-website/blob/master/homeP.png)
 ![image alt](https://github.com/mrblueofficial/Music-Instrument-E-commerce-website/blob/master/shop.png)
+![image alt](https://github.com/mrblueofficial/Music-Instrument-E-commerce-website/blob/master/photo.png)
 
 ## Author
 **Lucky Kali**
